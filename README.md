@@ -14,12 +14,6 @@ The official app can also be found on the [Play Store](https://play.google.com/s
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
-### Screenshot
-
-<p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
-</p>
-
 That screenshot is fake, by the way. I never reached 2048 :smile:
 
 ## Contributing
